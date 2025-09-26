@@ -1,0 +1,6 @@
+# Ignore sensitive and unnecessary files
+.env
+tx_id.txt
+node_modules/
+*.log
+.DS_Store
