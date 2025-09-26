@@ -1,0 +1,20 @@
+{
+  "name": "qa-arweave-file-validation",
+  "version": "1.0.0",
+  "description": "Automated test for uploading files to Arweave via ArDrive CLI and verifying on-chain status using ViewBlock.",
+  "main": "qa-arweave-file-validation.js",
+  "scripts": {
+    "start": "node qa-arweave-file-validation.js",
+    "test": "jest"
+  },
+  "keywords": ["qa", "web3", "arweave", "ardrive", "decentralization", "viewblock", "file-upload", "testing"],
+  "author": "Raúl Casado – GaslessQA",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
